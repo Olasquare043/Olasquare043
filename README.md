@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olasquare043
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning VB.Netcore web App (MVC) using C#
+- 👀 I’m a programmer
+- 🌱 Skilled with VB.Netcore web App (MVC) using C#,Visual Basic for Desktop Application and PHP.
 - 💞️ I’m looking to collaborate on any real life project
 - 📫 How to reach me olayinkasaheedolayemi@gmail.com or 07030796165
 
