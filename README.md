@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Olasquare043
-- 👀 I’m a programmer
-- 🌱 Skilled with VB.Netcore web App (MVC) using C#,Visual Basic for Desktop Application and PHP.
-- 💞️ I’m looking to collaborate on any real life project
-- 📫 How to reach me olayinkasaheedolayemi@gmail.com or 07030796165
+# 👋 Hi, I’m Saheed Olayinka (@Olasquare043)
 
-<!---
-Olasquare043/Olasquare043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I’m a passionate **Software Engineer** with experience in **Web, Desktop, and AI-powered Applications**.  
+- 🚀 Skilled in **C# (.NET Core MVC)**, **Visual Basic .NET (Desktop Apps)**, **PHP**, **WordPress Development**, and **SQL Databases**.  
+- 🤖 Currently exploring **Artificial Intelligence (AI)**, **Machine Learning**, and **Software Security**.  
+- 🤝 Open to collaborating on **real-world projects** that drive impact and innovation.  
+- 📫 Reach me at: **olayinkasaheedolayemi@gmail.com** | **+234 703 079 6165**  
+- 🌐 Check out my projects: [github.com/Olasquare043](https://github.com/Olasquare043)  
+
+---
+
+✨ *“Building solutions through code, creativity, and collaboration.”* ✨
+
