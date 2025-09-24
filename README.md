@@ -4,7 +4,7 @@
 - 🚀 Skilled in **C# (.NET Core MVC)**, **Visual Basic .NET (Desktop Apps)**, **PHP**, **WordPress Development**, and **SQL Databases**.  
 - 🤖 Currently exploring **Artificial Intelligence (AI)**, **Machine Learning**, and **Software Security**.  
 - 🤝 Open to collaborating on **real-world projects** that drive impact and innovation.  
-- 📫 Reach me at: **olayinkasaheedolayemi@gmail.com** | **+234 703 079 6165**  
+- 📫 Reach me at: **olasquareconsults@gmail.com** | **+234 703 079 6165**  
 - 🌐 Check out my projects: [github.com/Olasquare043](https://github.com/Olasquare043)  
 
 ---
